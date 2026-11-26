@@ -1,0 +1,501 @@
+product_id,category,avg_price
+230,Personal Care,83.09
+421,Baby Care,303.22
+456,Beverages,99.19
+62,Baby Care,87.09
+452,Household,83.7
+424,Vegetables,88.05
+353,Beverages,23.95
+402,Beverages,171.33
+254,Household,24.33
+142,Personal Care,250.38
+184,Frozen,82.67
+355,Fruits,223.31
+224,Beverages,49.45
+396,Fruits,126.17
+251,Dairy,181.72
+288,Fruits,15.37
+43,Fruits,55.3
+487,Beverages,60.87
+29,Vegetables,102.99
+316,Snacks,217.43
+46,Vegetables,222.75
+436,Household,85.33
+498,Dairy,103.53
+418,Fruits,59.51
+255,Beverages,40.02
+165,Groceries,100.94
+500,Vegetables,284.09
+367,Personal Care,111.64
+488,Dairy,17.02
+12,Snacks,39.65
+346,Snacks,69.71
+23,Personal Care,75.74
+207,Vegetables,55.85
+352,Frozen,324.91
+107,Personal Care,135.06
+323,Dairy,50.79
+216,Baby Care,64.57
+123,Groceries,192.66
+384,Snacks,56.03
+11,Groceries,135.81
+5,Household,236.65
+289,Frozen,66.29
+330,Frozen,59.26
+362,Household,21.53
+459,Vegetables,71.55
+460,Fruits,36.58
+385,Snacks,100.23
+397,Personal Care,187.65
+243,Groceries,119.14
+393,Vegetables,182.53
+128,Beverages,95.47
+248,Household,79.25
+473,Household,164.09
+217,Frozen,58.95
+131,Frozen,63.52
+86,Fruits,188.23
+315,Personal Care,17.41
+497,Beverages,35.1
+74,Groceries,331.3
+423,Vegetables,117.4
+144,Snacks,40.45
+129,Frozen,280.34
+75,Groceries,36.36
+466,Vegetables,235.53
+471,Beverages,34.28
+190,Groceries,89.95
+336,Dairy,258.13
+103,Snacks,58.12
+422,Groceries,65.01
+269,Beverages,55.36
+40,Groceries,57.56
+206,Dairy,46.14
+398,Baby Care,106.23
+429,Dairy,82.12
+31,Groceries,276.92
+439,Vegetables,169.86
+32,Beverages,27.67
+272,Frozen,32.25
+105,Beverages,46.87
+213,Personal Care,30.4
+404,Dairy,474.96
+148,Vegetables,166.36
+317,Groceries,140.48
+314,Household,35.98
+219,Dairy,202.94
+483,Beverages,92.4
+186,Vegetables,136.99
+387,Baby Care,54.55
+98,Beverages,84.94
+233,Baby Care,60.17
+13,Fruits,198.81
+419,Baby Care,219.55
+399,Vegetables,131.17
+199,Household,15.93
+309,Personal Care,100.03
+290,Groceries,41.48
+137,Dairy,45.16
+22,Vegetables,26.29
+326,Snacks,109.98
+476,Fruits,112.16
+257,Beverages,284.73
+246,Fruits,35.03
+448,Fruits,127.85
+427,Fruits,84.26
+173,Snacks,110.22
+60,Beverages,33.75
+478,Baby Care,32.13
+389,Beverages,53.39
+52,Fruits,56.2
+133,Personal Care,21.72
+66,Groceries,162.09
+364,Household,55.77
+472,Frozen,101.18
+108,Beverages,34.29
+366,Groceries,23.87
+51,Personal Care,48.72
+6,Baby Care,135.16
+69,Baby Care,61.82
+209,Dairy,16.96
+491,Fruits,464.71
+65,Fruits,43.82
+359,Household,176.02
+357,Personal Care,76.45
+380,Frozen,48.03
+18,Dairy,61.74
+449,Fruits,12.54
+328,Fruits,10.96
+24,Household,134.86
+441,Snacks,217.26
+134,Frozen,98.98
+10,Snacks,163.34
+90,Household,55.69
+117,Vegetables,135.23
+30,Personal Care,95.75
+443,Baby Care,117.51
+179,Beverages,45.75
+33,Personal Care,113.99
+119,Beverages,28.56
+73,Beverages,265.52
+45,Vegetables,121.84
+438,Dairy,301.43
+369,Household,150.04
+302,Personal Care,67.71
+149,Household,92.77
+115,Frozen,18.11
+223,Frozen,38.32
+401,Dairy,96.83
+285,Dairy,113.42
+244,Fruits,212.71
+97,Baby Care,231.14
+495,Snacks,34.37
+71,Personal Care,66.23
+296,Snacks,29.02
+293,Fruits,81.13
+403,Snacks,173.88
+125,Groceries,69.66
+348,Groceries,23.1
+47,Personal Care,90.43
+484,Dairy,47.94
+294,Fruits,12.79
+49,Baby Care,577.96
+305,Dairy,10.7
+15,Vegetables,183.23
+41,Fruits,241.0
+410,Baby Care,46.56
+268,Beverages,187.43
+299,Personal Care,35.65
+100,Snacks,41.85
+93,Personal Care,117.14
+240,Fruits,30.09
+16,Frozen,24.6
+210,Fruits,217.09
+39,Fruits,51.67
+68,Dairy,198.08
+376,Baby Care,37.05
+54,Beverages,100.11
+156,Snacks,88.1
+490,Frozen,365.5
+308,Personal Care,56.51
+405,Groceries,128.12
+263,Personal Care,56.34
+202,Household,134.4
+203,Baby Care,28.44
+201,Vegetables,93.81
+84,Vegetables,98.61
+390,Dairy,58.28
+325,Baby Care,163.45
+447,Beverages,96.2
+247,Frozen,69.2
+249,Fruits,442.92
+361,Household,56.22
+310,Personal Care,174.18
+178,Household,123.21
+259,Fruits,88.02
+416,Frozen,104.86
+372,Personal Care,57.48
+342,Fruits,36.65
+453,Vegetables,46.72
+232,Vegetables,151.31
+122,Dairy,330.54
+432,Household,49.82
+301,Frozen,21.25
+177,Vegetables,17.69
+192,Vegetables,38.75
+193,Groceries,141.8
+437,Baby Care,41.27
+480,Household,88.65
+252,Frozen,88.31
+26,Frozen,118.66
+8,Household,65.75
+197,Vegetables,113.69
+214,Household,12.76
+368,Personal Care,50.45
+273,Frozen,47.07
+200,Dairy,182.99
+44,Baby Care,44.64
+291,Groceries,301.55
+391,Snacks,209.26
+158,Frozen,90.64
+72,Personal Care,110.9
+344,Snacks,109.05
+339,Dairy,163.12
+169,Snacks,99.1
+114,Frozen,113.18
+338,Beverages,130.41
+451,Dairy,155.47
+143,Frozen,56.42
+400,Vegetables,200.17
+153,Snacks,132.57
+166,Groceries,136.34
+265,Frozen,294.75
+9,Snacks,73.99
+386,Beverages,62.76
+313,Household,78.54
+406,Fruits,80.7
+81,Groceries,92.09
+303,Personal Care,152.98
+145,Household,117.2
+420,Vegetables,78.52
+477,Groceries,161.52
+450,Frozen,102.17
+329,Groceries,49.72
+482,Baby Care,37.73
+304,Snacks,52.8
+454,Frozen,24.18
+187,Dairy,50.75
+465,Fruits,82.61
+37,Groceries,58.56
+163,Dairy,130.56
+356,Household,310.59
+324,Baby Care,94.86
+464,Personal Care,37.64
+2,Beverages,268.39
+109,Beverages,165.19
+162,Fruits,74.5
+411,Vegetables,127.6
+151,Household,75.26
+101,Vegetables,18.39
+458,Personal Care,163.85
+83,Dairy,100.63
+468,Baby Care,87.05
+455,Baby Care,41.64
+180,Dairy,266.72
+218,Dairy,69.52
+394,Household,237.17
+496,Fruits,170.03
+279,Fruits,109.69
+335,Frozen,132.16
+463,Beverages,61.4
+311,Fruits,287.13
+412,Frozen,326.67
+36,Vegetables,142.42
+445,Dairy,416.56
+278,Beverages,98.85
+319,Snacks,73.71
+159,Household,113.33
+91,Groceries,75.01
+332,Dairy,42.93
+485,Baby Care,258.89
+3,Groceries,224.69
+276,Fruits,113.71
+237,Baby Care,30.99
+27,Personal Care,78.35
+499,Groceries,61.6
+152,Baby Care,333.34
+188,Frozen,188.59
+354,Beverages,105.53
+235,Groceries,104.72
+7,Groceries,196.11
+120,Groceries,75.18
+95,Household,7.56
+17,Vegetables,302.98
+413,Dairy,115.96
+347,Groceries,310.97
+343,Dairy,221.55
+469,Beverages,77.91
+264,Personal Care,135.59
+176,Snacks,62.78
+85,Beverages,393.83
+351,Frozen,139.98
+155,Groceries,276.92
+433,Personal Care,34.08
+312,Dairy,61.07
+457,Frozen,85.03
+25,Baby Care,25.79
+195,Beverages,100.0
+474,Baby Care,190.34
+307,Snacks,205.32
+300,Vegetables,20.69
+222,Household,71.6
+337,Groceries,20.39
+350,Frozen,83.43
+345,Frozen,82.87
+88,Groceries,75.99
+4,Household,26.35
+250,Beverages,41.53
+63,Vegetables,41.37
+227,Baby Care,83.62
+334,Fruits,321.64
+306,Household,95.88
+378,Fruits,24.23
+136,Dairy,62.35
+262,Frozen,71.5
+236,Vegetables,662.41
+481,Household,182.53
+489,Frozen,86.64
+461,Frozen,142.45
+341,Vegetables,99.58
+275,Fruits,250.96
+374,Fruits,143.59
+172,Dairy,18.88
+61,Vegetables,78.14
+212,Dairy,238.44
+57,Dairy,312.9
+139,Dairy,108.45
+104,Groceries,92.44
+417,Fruits,345.67
+77,Beverages,114.24
+82,Vegetables,136.11
+360,Personal Care,47.94
+78,Fruits,43.29
+42,Household,490.29
+321,Fruits,52.82
+431,Fruits,75.16
+407,Personal Care,123.97
+377,Baby Care,101.14
+320,Fruits,25.85
+229,Personal Care,72.57
+38,Groceries,115.52
+318,Snacks,102.61
+371,Personal Care,49.37
+171,Beverages,34.02
+67,Frozen,91.67
+194,Baby Care,49.58
+281,Household,204.66
+479,Snacks,35.79
+381,Dairy,139.12
+118,Beverages,179.14
+89,Personal Care,69.27
+260,Beverages,135.8
+284,Snacks,274.95
+435,Frozen,53.68
+444,Snacks,214.28
+383,Beverages,83.21
+92,Fruits,46.91
+14,Fruits,54.94
+234,Fruits,452.18
+340,Baby Care,84.6
+414,Dairy,180.93
+271,Dairy,58.8
+198,Household,324.69
+141,Personal Care,78.58
+238,Household,214.87
+55,Beverages,60.33
+409,Vegetables,122.98
+80,Dairy,103.01
+225,Snacks,190.42
+19,Vegetables,43.38
+215,Snacks,114.76
+87,Baby Care,55.95
+196,Vegetables,78.95
+434,Frozen,83.08
+228,Frozen,80.3
+292,Beverages,51.52
+363,Baby Care,351.94
+395,Beverages,36.93
+124,Snacks,39.56
+245,Household,69.01
+70,Groceries,61.87
+430,Snacks,18.34
+266,Fruits,38.16
+96,Household,105.83
+111,Beverages,21.85
+428,Beverages,61.01
+253,Fruits,33.51
+140,Groceries,91.94
+295,Groceries,75.61
+167,Beverages,168.51
+446,Vegetables,128.63
+231,Dairy,54.11
+333,Vegetables,17.99
+388,Personal Care,38.47
+274,Personal Care,73.59
+241,Frozen,133.52
+322,Beverages,125.89
+373,Vegetables,45.5
+470,Fruits,41.56
+256,Vegetables,101.25
+106,Frozen,96.42
+138,Baby Care,796.72
+492,Groceries,82.88
+53,Snacks,76.71
+191,Fruits,12.82
+226,Groceries,460.36
+442,Personal Care,108.13
+21,Personal Care,67.0
+1,Vegetables,48.46
+79,Dairy,58.09
+181,Frozen,132.32
+157,Snacks,68.32
+282,Beverages,44.05
+183,Fruits,48.55
+189,Groceries,135.59
+494,Household,90.29
+20,Baby Care,206.95
+113,Baby Care,156.93
+182,Snacks,37.89
+365,Groceries,79.71
+327,Baby Care,100.47
+204,Groceries,52.33
+211,Household,279.42
+34,Groceries,87.65
+462,Personal Care,100.39
+76,Frozen,61.4
+132,Snacks,129.24
+220,Beverages,27.88
+130,Fruits,142.18
+154,Groceries,51.9
+493,Groceries,183.46
+28,Beverages,235.34
+277,Beverages,42.63
+35,Baby Care,22.79
+56,Snacks,33.46
+426,Groceries,30.27
+258,Beverages,89.85
+161,Personal Care,80.97
+50,Frozen,88.04
+168,Groceries,134.44
+99,Household,261.12
+175,Personal Care,110.33
+331,Beverages,161.85
+221,Personal Care,54.85
+94,Frozen,315.25
+242,Fruits,72.76
+297,Frozen,141.32
+208,Fruits,101.79
+160,Household,25.05
+375,Baby Care,45.82
+147,Frozen,120.94
+146,Vegetables,88.23
+267,Personal Care,128.03
+121,Groceries,293.01
+425,Household,63.45
+102,Personal Care,122.86
+475,Fruits,107.15
+59,Groceries,39.04
+382,Beverages,34.9
+58,Vegetables,138.32
+261,Beverages,47.11
+358,Groceries,452.89
+110,Groceries,49.71
+392,Fruits,15.76
+298,Baby Care,103.64
+440,Baby Care,50.39
+283,Frozen,101.45
+116,Household,65.83
+349,Fruits,58.92
+486,Dairy,73.9
+286,Frozen,121.5
+150,Baby Care,136.32
+408,Frozen,53.1
+185,Personal Care,116.77
+280,Groceries,159.47
+112,Fruits,11.1
+64,Vegetables,87.94
+370,Dairy,50.11
+135,Snacks,67.4
+205,Personal Care,102.25
+126,Vegetables,85.32
+48,Groceries,282.75
+270,Snacks,108.35
+467,Frozen,287.91
+164,Beverages,77.89
+170,Fruits,26.0
+127,Vegetables,167.58
+239,Frozen,309.87
+415,Groceries,58.64
+174,Household,104.83
+379,Groceries,304.26
+287,Frozen,113.25
